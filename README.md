@@ -4,7 +4,6 @@
 
 This is a simple PRNG algorithm, created by myself as an exercise.
 It can generate numbers up to 32 bits, but can be adapted to bigger numbers.
-More details about the implementation and functioning of this algorithm will be disclosed soon, when I write a documentation for it.
 
 ## Author
 
